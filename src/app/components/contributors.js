@@ -339,7 +339,7 @@ export default function Contributors() {
     { name: "Shreya Verma", domain: "Developer", image: "/contributors/shreya-verma.png", instagram: "https://www.instagram.com/shverma_29", linkedin: "https://www.linkedin.com/in/shreya-verma-060041363/", github: "https://github.com/shverma524/" },
     { name: "Atharv Namdeo", domain: "Designer", image: "/contributors/atharv-namdeo.png", instagram: "https://www.instagram.com/atharvnamdeo/", linkedin: "https://www.linkedin.com/in/atharvnamdeo", github: "https://github.com/atharv-namdeo" },
     { name: "Akshit Saharia", domain: "Designer", image: "/contributors/akshit-saharia.png", instagram: "https://www.instagram.com/akshit_saharia", linkedin: "https://www.linkedin.com/in/AkshitSaharia/", github: "https://github.com/akshit-saharia/" },
-    { name: "Bhumi Agarwal", domain: "Designer", image: "/contributors/bhumi-agarwal.png", instagram: "https://www.instagram.com/bhumiii_agarwall", linkedin: "www.linkedin.com/in/bhumiagarwal07", github: "https://github.com/Bhumi711/" },
+    { name: "Bhumi Agarwal", domain: "Designer", image: "/contributors/bhumi-agarwal.png", instagram: "https://www.instagram.com/bhumiii_agarwall", linkedin: "https://www.linkedin.com/in/bhumiagarwal07", github: "https://github.com/Bhumi711/" },
     { name: "Kashvi Jain", domain: "Designer", image: "/contributors/kashvi-jain.png", instagram: "https://www.instagram.com/that_one_potatoh", linkedin: "https://www.linkedin.com/in/kashvi-jain-579676380", github: "https://github.com/jkashvi12/" },
     { name: "Palkee Pandit", domain: "Editorial Lead", image: "/contributors/palkee-pandit.jpg", instagram: "https://www.instagram.com/palkeepandit/", linkedin: "https://in.linkedin.com/in/palkee-pandit-825244309", github: "" },
   ];
